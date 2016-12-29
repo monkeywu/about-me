@@ -27,7 +27,7 @@
  - 透過 Javascript & Jquery 實現 Todo-list 的基本功能，包含新增、完成與刪除事件
  
 - <a href="https://edenpan1207.github.io/simple-slider/" target="_blank">Simple Slider</a>
- - 以 Jquery 實現 Slider 效果，並用 Scss語法、@import、@mixin 機制管理網頁版型
+ - 以 HTML & CSS & Jquery 手刻 Slider 效果，並用 Scss語法、@import、@mixin 機制管理網頁版型
  
 - <a href="https://edenpan1207.github.io/bookstore_gmap/" target="_blank">Book Store Position</a>
  - 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務
