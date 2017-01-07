@@ -8,17 +8,23 @@
 
 ### Front-End 專業技能
 - 熟悉 HTML + CSS + RWD 完成頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
-- 使用 Scss 管理網頁版型
+- 使用 SCSS 管理網頁版型
 - 了解 JS 基本語法，並擅長使用 Jquery 等 Library 設計網頁動畫效果
-- 利用 Ajax 撈取遠端JSON資料並顯示在網頁上
-- 介接第三方 API 設計 SPA 頁面 (Google Map、Youtube Api、Open Data 等等)
+- 使用 Bootstrap & Pure.css 與 Jquery Plugins 快速開發響應式網頁
+- 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
+- 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
 - 了解 Git / Github 與基本指令運用
 <hr>
 
 ### 作品集
-- <a href="https://edenpan1207.github.io/eden-kitchen-layout/#" target="_blank">Eden's Kitchen</a> 		   
+- <a href="https://edenpan1207.github.io/eden-kitchen-layout/" target="_blank">Eden's Kitchen</a> 		   
  - 將 PSD 切成 HTML + CSS，並加上 RWD 與 Jquery 呈現
-
+ - 以 SCSS 控管網頁版型與樣式
+ 
+- <a href="https://edenpan1207.github.io/bussiness-project/index.html" target="_blank">Bussiness Project</a> 		   
+ - 利用 Bootstrap 與 Jquery Plugins 快速搭建響應式網頁
+ - 使用 SCSS 進行客製化樣式調整
+ 
 - <a href="https://edenpan1207.github.io/Pet-Adoption-Project/" target="_blank">Pet Adoption</a>
  - 透過政府資料開放平台抓取 JSON 資料，透過 Ajax 呈現在網頁上    
  - jQuery & RWD 
