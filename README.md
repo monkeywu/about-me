@@ -17,8 +17,9 @@
 <hr>
 
 ### 作品集
-- <a href="https://edenpan1207.github.io/_restaurant/" target="_blank">Eden's Restaurant</a> 		   
+- <a href="https://edenpan1207.github.io/eden-kitchen-layout/" target="_blank">Eden's Kitchen</a> 		   
  - 將 PSD 切成 HTML + CSS，並加上 RWD 與 Jquery 呈現
+ - 使用 SCSS 管理樣式
  
 - <a href="https://edenpan1207.github.io/bussiness-project/index.html" target="_blank">Bussiness Project</a> 		   
  - 利用 Bootstrap 與 Jquery Plugins 快速搭建響應式網頁
